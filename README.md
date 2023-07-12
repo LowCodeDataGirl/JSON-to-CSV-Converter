@@ -27,4 +27,19 @@ Note: It's important to ensure that the JSON file is in a valid format and match
 - If your JSON file is located in a different directory, modify the `json_file` variable with the appropriate path.
 - If you want to change the output CSV file name or location, update the `to_csv` method's argument in the last line of the script (`df.to_csv("output.csv", index=False)`).
 
+## FAQ
+### Can I follow you on your social media platforms ? 
+
+Yes you can !
  
+ You'll find me 
+- Posting memes or talking about data on [Twitter](https://twitter.com/LowCodeDataGirl/status/1539491369491759107?s=20&t=_AIGHnY6mDlG9uaiR8aa0g)
+- Writing articles about complex data concepts and making them digestible on [Medium](lowcodedatagirl.medium.com)   
+- Posting data vizualizations inspiration and data infographics on [Instagram](https://www.instagram.com/lowcodedatagirl/)
+
+## License
+
+Distributed under the no License. See LICENSE.txt for more information.
+
+## Show Your Support
+Please ⭐️ this repository if this project helped you or [buy me coffee]( https://www.buymeacoffee.com/lowcodedatagirl)!
