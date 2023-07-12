@@ -1,6 +1,6 @@
 # JSON-to-CSV-Converter
 
-This code is a simple Python script that converts JSON data into a CSV (Comma-Separated Values) file. It utilizes the `json` and `pandas` libraries to accomplish the task.
+This code is a simple Python script that converts JSON data into a CSV (Comma-Separated Values) file.  
 
 ## Prerequisites
 - Python 3.x
